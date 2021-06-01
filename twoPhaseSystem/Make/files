@@ -1,0 +1,7 @@
+twoPhaseSystem.C
+twoPhaseSystemNew.C
+twoPhaseSystems.C
+
+LIB = $(FOAM_USER_LIBBIN)/libreactingTwoPhaseEulerFoamTwoPhaseSystem
+
+
